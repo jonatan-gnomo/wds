@@ -448,7 +448,7 @@ input.form-control::placeholder {
 .owl-nav {
     display: flex;
     justify-content: center;
-    margin-top: -50px;
+    margin-top: 0px;
     z-index: 1;
     position: relative;
 }
@@ -555,7 +555,7 @@ input.form-control::placeholder {
 }
 
 .read_bt {
-    width: 200px;
+    width: 100% !important;
     float: left;
     padding-top: 30px;
 }
@@ -564,7 +564,7 @@ input.form-control::placeholder {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #f0b016;
+    background-color: #25d366;
     color: #fefefd;
     text-align: center;
     padding: 10px;
@@ -677,7 +677,7 @@ figure:hover+span {
 }
 
 .seemore_bt {
-    width: 170px;
+    width: 100%;
     margin: 0 auto;
 }
 
